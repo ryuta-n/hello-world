@@ -4,4 +4,4 @@
 git/github 演習
 
 - git-tutorial.mdのリンク先はこちら
-[git-tutorial.mdへのリンク]https://github.com/ryuta-n/hello-world/blob/main/git-tutorial.md
+ [git-tutorial.mdへのリンク]https://github.com/ryuta-n/hello-world/blob/main/git-tutorial.md
